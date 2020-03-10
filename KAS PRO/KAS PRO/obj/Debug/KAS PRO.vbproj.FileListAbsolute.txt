@@ -1,0 +1,12 @@
+M:\project vb\KAS_PRO\KAS PRO\KAS PRO\bin\Debug\KAS PRO.exe.config
+M:\project vb\KAS_PRO\KAS PRO\KAS PRO\bin\Debug\KAS PRO.exe
+M:\project vb\KAS_PRO\KAS PRO\KAS PRO\bin\Debug\KAS PRO.pdb
+M:\project vb\KAS_PRO\KAS PRO\KAS PRO\bin\Debug\KAS PRO.xml
+M:\project vb\KAS_PRO\KAS PRO\KAS PRO\obj\Debug\KAS PRO.vbprojResolveAssemblyReference.cache
+M:\project vb\KAS_PRO\KAS PRO\KAS PRO\obj\Debug\KAS_PRO.Resources.resources
+M:\project vb\KAS_PRO\KAS PRO\KAS PRO\obj\Debug\KAS PRO.vbproj.GenerateResource.Cache
+M:\project vb\KAS_PRO\KAS PRO\KAS PRO\obj\Debug\KAS PRO.exe
+M:\project vb\KAS_PRO\KAS PRO\KAS PRO\obj\Debug\KAS PRO.xml
+M:\project vb\KAS_PRO\KAS PRO\KAS PRO\obj\Debug\KAS PRO.pdb
+M:\project vb\KAS_PRO\KAS PRO\KAS PRO\bin\Debug\Guna.UI.dll
+M:\project vb\KAS_PRO\KAS PRO\KAS PRO\obj\Debug\KAS_PRO.FORM_UTAMA.resources
