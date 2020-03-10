@@ -10,3 +10,16 @@ M:\project vb\KAS_PRO\KAS PRO\KAS PRO\obj\Debug\KAS PRO.xml
 M:\project vb\KAS_PRO\KAS PRO\KAS PRO\obj\Debug\KAS PRO.pdb
 M:\project vb\KAS_PRO\KAS PRO\KAS PRO\bin\Debug\Guna.UI.dll
 M:\project vb\KAS_PRO\KAS PRO\KAS PRO\obj\Debug\KAS_PRO.FORM_UTAMA.resources
+C:\Users\Qlapa\Documents\Project-vb-bukti-kas-keluar\KAS PRO\KAS PRO\bin\Debug\KAS PRO.exe.config
+C:\Users\Qlapa\Documents\Project-vb-bukti-kas-keluar\KAS PRO\KAS PRO\obj\Debug\KAS PRO.exe
+C:\Users\Qlapa\Documents\Project-vb-bukti-kas-keluar\KAS PRO\KAS PRO\obj\Debug\KAS PRO.xml
+C:\Users\Qlapa\Documents\Project-vb-bukti-kas-keluar\KAS PRO\KAS PRO\obj\Debug\KAS PRO.pdb
+C:\Users\Qlapa\Documents\Project-vb-bukti-kas-keluar\KAS PRO\KAS PRO\bin\Debug\KAS PRO.exe
+C:\Users\Qlapa\Documents\Project-vb-bukti-kas-keluar\KAS PRO\KAS PRO\bin\Debug\KAS PRO.pdb
+C:\Users\Qlapa\Documents\Project-vb-bukti-kas-keluar\KAS PRO\KAS PRO\bin\Debug\KAS PRO.xml
+C:\Users\Qlapa\Documents\Project-vb-bukti-kas-keluar\KAS PRO\KAS PRO\obj\Debug\KAS PRO.vbprojResolveAssemblyReference.cache
+C:\Users\Qlapa\Documents\Project-vb-bukti-kas-keluar\KAS PRO\KAS PRO\obj\Debug\KAS_PRO.FORM_UTAMA.resources
+C:\Users\Qlapa\Documents\Project-vb-bukti-kas-keluar\KAS PRO\KAS PRO\obj\Debug\KAS_PRO.Resources.resources
+C:\Users\Qlapa\Documents\Project-vb-bukti-kas-keluar\KAS PRO\KAS PRO\obj\Debug\KAS PRO.vbproj.GenerateResource.Cache
+C:\Users\Qlapa\Documents\Project-vb-bukti-kas-keluar\KAS PRO\KAS PRO\obj\Debug\KAS_PRO.Cetak_Transaksi.resources
+C:\Users\Qlapa\Documents\Project-vb-bukti-kas-keluar\KAS PRO\KAS PRO\obj\Debug\KAS_PRO.Form_login.resources

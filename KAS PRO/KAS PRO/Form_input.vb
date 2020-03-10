@@ -205,6 +205,7 @@ Public Class FORM_UTAMA
     End Sub
 
     Private Sub btn_simpan_Click(sender As Object, e As EventArgs) Handles btn_simpan.Click
+        Cetak_Transaksi.Show()
         tambah()
         tampil()
         debit()
@@ -212,7 +213,6 @@ Public Class FORM_UTAMA
         saldo()
         bersih()
         refreshwaktu()
-
     End Sub
 
     Private Sub Label2_Click(sender As Object, e As EventArgs) Handles Label2.Click
@@ -294,6 +294,10 @@ Public Class FORM_UTAMA
 
 
         End If
+        btn_cetak.Enabled = True
     End Sub
 
+    Private Sub btn_cetak_Click(sender As Object, e As EventArgs) Handles btn_cetak.Click
+        Cetak_Transaksi.Show()
+    End Sub
 End Class

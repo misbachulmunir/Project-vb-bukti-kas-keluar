@@ -50,6 +50,7 @@
     <Reference Include="Guna.UI">
       <HintPath>C:\Users\User\Downloads\software\Guna.UI-Framework-Lib-master\Guna.UI-Framework-Lib\.net 4.0\Guna.UI.dll</HintPath>
     </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Deployment" />
@@ -76,6 +77,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CetakTransaksi.Designer.vb">
+      <DependentUpon>CetakTransaksi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CetakTransaksi.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Form_input.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -83,6 +90,13 @@
       <DependentUpon>Form_input.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Form_login.Designer.vb">
+      <DependentUpon>Form_login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -100,8 +114,14 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="CetakTransaksi.resx">
+      <DependentUpon>CetakTransaksi.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form_input.resx">
       <DependentUpon>Form_input.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_login.resx">
+      <DependentUpon>Form_login.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
